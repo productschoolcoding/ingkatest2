@@ -1,4 +1,5 @@
-# My Product: Product Management Final Project
+# My Product: Product Management Final Project, by Sam Lee.
+
 
 > My final project for Product School's **Product Management** certification. One product concept, **StreamLine Spotlight** or **RouteLogic Velocity** (or my own initiative), taken from a raw problem to a launch-ready concept across six in-class labs, no homework required.
 
